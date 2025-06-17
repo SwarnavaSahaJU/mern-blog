@@ -55,7 +55,7 @@ export default function FooterCom() {
               <ul className="text-gray-600 dark:text-gray-400">
                 <li className="mb-4">
                   <a
-                    href="https://www.github.com/sahandghavidel"
+                    href="https://github.com/SwarnavaSahaJU"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:underline"
